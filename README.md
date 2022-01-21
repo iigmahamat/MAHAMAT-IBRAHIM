@@ -1,4 +1,4 @@
-# MAHAMAT-IBRAHIM 
+# DESCRIPTION 
 
 AMAZON: Ce projet à pour but de mettre en place un système nous permettant de récupérer quelques informations sur certains produits d'Amazon et de mettre en place un système d'alerte via un E-mail. 
 TICTACTOE : ce projet a pour but de creer le jeu morpion avec IA en utilisant l'algorithme d'apprentissage le Q-learning 
